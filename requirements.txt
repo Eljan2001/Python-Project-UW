@@ -1,0 +1,6 @@
+Flask==2.2.2
+requests==2.31.0
+folium==0.18.0
+nest_asyncio==1.5.4
+werkzeug==2.2.2
+geopy==2.2.0
